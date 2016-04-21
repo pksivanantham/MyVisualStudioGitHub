@@ -179,6 +179,9 @@
     <Content Include="Content\CAD-diploma-main-image-2.jpg" />
     <Content Include="Content\cmaakc13h4u385.jpg" />
     <Content Include="Content\d33bc45952ddb5667a13b839a07aa38a.jpg" />
+    <Content Include="Data\MaintenanceDatabase_2016-03-11.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="Content\favicon.ico" />
     <Content Include="Content\logo.jpg" />
   </ItemGroup>
